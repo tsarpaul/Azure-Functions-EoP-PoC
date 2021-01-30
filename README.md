@@ -1,3 +1,6 @@
+For more details:
+https://www.intezer.com/blog/research/how-we-escaped-docker-in-azure-functions/
+
 In this POC we'll setup a reverse shell with the squashfs to escalate privileges in Azure Function, and break out of the Docker environment.
 
 1. Install [Azure Functions CLI](https://docs.microsoft.com/en-us/azure/azure-functions/functions-run-local?tabs=linux%2Ccsharp%2Cbash)
